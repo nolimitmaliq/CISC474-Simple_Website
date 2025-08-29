@@ -1,0 +1,20 @@
+body{
+   background-color: aqua;
+  height: 100vh;              
+  display: flex;              
+  justify-content: center;    
+  align-items: center;        
+  flex-direction: column;    
+  margin: 0;
+}
+
+input,button{
+    border-style:solid;
+    border-color: brown;
+
+}
+
+label, p, button{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
